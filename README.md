@@ -2,6 +2,8 @@
 
 本工程模仿QQ/微信的表情输入，主要使用SpannableStringBuilder实现表情与文字同框。
 
+下载apk体验一下：[app-debug.apk](app-debug.apk "点我下载")
+
 以下贴出输入框文本 转 表情+文字 工具代码，具体细节请看Demo：
 
 	/**
